@@ -8,3 +8,4 @@
 
 - [Gitlab](https://gitlab.com/Furious992/02-git-01#)
 - [Github](https://github.com/Furious992/02-git-02)
+- [Github репозиторий с веткой FIX](https://github.com/Furious992/02-git-01/tree/fix)
